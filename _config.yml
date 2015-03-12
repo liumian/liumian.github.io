@@ -5,12 +5,12 @@ pygments:         true
 paginate:         6
 permalink:        /:title
 
-title:            Suhui.com
-url:              http://suhui.github.io
+title:            LiuMian
+url:              http://liumian.github.io
 author:
-    name:         Suhui
-description:      "Suhui\'s Blog"
-author_info:      <a href="http://suhui.github.io/about">Suhui</a>
+    name:         LiuMian
+description:      "LiuMian\'s Blog"
+author_info:      <a href="http://liumian.github.io/about">LiuMian</a>
 
 copyright:
-    - Design by <a href="http://suhui.github.io/about" title="Suhui" target="_blank">Suhui</a> &copy; 2014
+    - Design by <a href="http://liumian.github.io/about" title="LiuMian" target="_blank">LiuMian</a> &copy; 2014

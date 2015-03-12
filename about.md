@@ -1,13 +1,13 @@
 ---
 layout: page
-title: About Suhui
+title: About LiuMian
 ---
-# SuHui
+# LiuMian
 
 <div id="autotype">
 
 hello,<br />
-this is suhui .<br />
+this is LiuMian .<br />
 </div>
 <script>
 $.fn.autotype = function() {

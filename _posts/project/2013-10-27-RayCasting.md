@@ -17,6 +17,3 @@ description: Computer Graphic project
 ##示例结果
 <a href="" target="_blank"><img src="/images/raycasting/depth1_05.png" alt="raycasting" ></a>
 <a href="" title="raycasting" target="_blank"><img src="/images/raycasting/output1_05.png" alt="raycasting" ></a>
-
-###项目地址
-[github](https://github.com/SuHui/RayCasting)
